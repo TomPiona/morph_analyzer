@@ -1,0 +1,282 @@
+AKT	UNKNOWN
+
+2,	UNKNOWN
+
+43	UNKNOWN
+
+	
+
+1	UNKNOWN
+
+	
+
+	
+
+um-ma	ūm+N+Masc+Sg+Construct+MA
+um-ma	umm+N+Masc+Sg+Construct+MA
+um-ma	umm+N+Masc+Sg+Construct+MA
+um-ma	umm+N+Masc+Sg+Construct+MA
+um-ma	umm+N+Masc+Sg+Construct+1csPoss
+um-ma	umm+N+Masc+Sg+Acc
+um-ma	umm+N+Masc+Pl+Nom+1csPoss
+um-ma	umm+N+Masc+Pl+Obl+1csPoss
+um-ma	umma+Prep
+um-ma	umm+N+Masc+Pl+Construct+1csPoss
+
+Ú-ṣur-ší-Ištar-ma	UNKNOWN
+
+	
+
+	
+
+	
+
+	
+
+a-na	ana+Prep
+
+Hu-ni-a	Hunia+Name
+Hu-ni-a	Hunia+Name+1csPoss
+Hu-ni-a	Hunia+Name
+
+qí-bi4-ma	qabāˀum+GStem+Imp+2MS+MA
+qí-bi4-ma	qabāˀum+GStem+Imp+2FS+MA
+
+	
+
+	
+
+	
+
+	
+
+a-na-kam	annak+N+Masc+Sg+Acc
+a-na-kam	annak+N+Masc+Sg+Acc
+
+um-ma	ūm+N+Masc+Sg+Construct+MA
+um-ma	umm+N+Masc+Sg+Construct+MA
+um-ma	umm+N+Masc+Sg+Construct+MA
+um-ma	umm+N+Masc+Sg+Construct+MA
+um-ma	umm+N+Masc+Sg+Construct+1csPoss
+um-ma	umm+N+Masc+Sg+Acc
+um-ma	umm+N+Masc+Pl+Nom+1csPoss
+um-ma	umm+N+Masc+Pl+Obl+1csPoss
+um-ma	umma+Prep
+um-ma	umm+N+Masc+Pl+Construct+1csPoss
+
+a-naku-ma	UNKNOWN
+
+	
+
+	
+
+	
+
+	
+
+ki-ma	kīma+Prep
+
+i-a-tí	iyāti+Pron+1p+Com+Sg+Obl
+i-a-tí	iyāti+Pron+1p+Com+Sg+Obl
+
+i-lá-ak-ma	UNKNOWN
+
+5	UNKNOWN
+
+	
+
+	
+
+a-wa-tám	awā+N+Fem+Sg+Acc
+
+ša	šeˀāˀum+GStem+Imp+2CP
+
+É	UNKNOWN
+
+Šu-Be-lim	Šu-Bēl+Name+Masc+Sg+Gen
+
+	
+
+	
+
+	
+
+	
+
+i-ga-ma-ar	gamārum+GStem+Dur+3CS
+i-ga-ma-ar	gamārum+NStem+Dur+3CS
+
+a-ta	am+N+Fem+Sg+Construct+TA
+a-ta	am+N+Fem+Sg+Acc
+a-ta	am+N+Fem+Sg+Construct+TA
+a-ta	atta+Pron+2p+Masc+Sg+Nom
+a-ta	atta+Pron+2p+Masc+Sg+Acc
+a-ta	atta+Pron+2p+Masc+Sg+Nom
+a-ta	atta+Pron+2p+Masc+Sg+Acc
+a-ta	Atāya+Name
+
+	
+
+	
+
+	
+
+	
+
+iš-tù	ištu+Prep
+iš-tù	šatāˀum+GStem+Pret+3MP
+iš-tù	šatāˀum+NStem+Pret+3MP
+iš-tù	šeˀāˀum+GStem+Perf+3MP
+
+u4-mì-im	ūm+N+Masc+Sg+Gen
+u4-mì-im	umm+N+Masc+Sg+Gen
+u4-mì-im	umm+N+Masc+Sg+Gen
+
+	
+
+	
+
+	
+
+	
+
+ša	šeˀāˀum+GStem+Imp+2CP
+
+tù-úṣ-ú	UNKNOWN
+
+	
+
+	
+
+	
+
+	
+
+mì-ma-ša-ma	mimmû+N+Masc+Sg+Acc+3fsPoss+MA
+mì-ma-ša-ma	mimmû+N+Masc+Dual+Nom+3fsPoss+MA
+mì-ma-ša-ma	mimmû+N+Masc+Sg+Acc+3fsPoss+MA
+mì-ma-ša-ma	mimmû+N+Masc+Dual+Nom+3fsPoss+MA
+
+a-wa-tám	awā+N+Fem+Sg+Acc
+
+lo.e.	UNKNOWN
+
+10	UNKNOWN
+
+úz-ni	umZ+N+Masc+Sg+Construct+1cpPoss
+úz-ni	uzn+N+Masc+Sg+Construct+1csPoss
+úz-ni	uzn+N+Masc+Sg+Construct+1cpPoss
+úz-ni	uzn+N+Masc+Sg+Gen
+úz-ni	uzn+N+Masc+Pl+Obl
+úz-ni	uzn+N+Masc+Pl+Obl+1csPoss
+úz-ni	uzn+N+Masc+Pl+Construct
+úz-ni	uzn+N+Masc+Pl+Construct+1csPoss
+
+lá	UNKNOWN
+
+tap-té-té	UNKNOWN
+
+rev.	UNKNOWN
+
+KÙ.BABBAR	kās+N+Masc+Sg+Construct
+
+ša	šeˀāˀum+GStem+Imp+2CP
+
+DAM.QAR	tamkār+Name+Masc+Sg+Construct
+DAM.QAR	tamkār+N+Masc+Sg+Construct
+DAM.QAR	makārum+GStem+Pret+2MS
+
+	
+
+i-dí-na-ku-ni	UNKNOWN
+
+	
+
+ší-ma-am	šīm+N+Masc+Sg+Acc
+
+a-na	ana+Prep
+
+DAM.QAR	tamkār+Name+Masc+Sg+Construct
+DAM.QAR	tamkār+N+Masc+Sg+Construct
+DAM.QAR	makārum+GStem+Pret+2MS
+
+	
+
+ša-a-am-ma	UNKNOWN
+
+iš-tí-kà	UNKNOWN
+
+15	UNKNOWN
+
+še-ṣí-a-am	UNKNOWN_NOUN_ADJ
+
+KÁ	UNKNOWN
+
+a-bu-lim	abull+N+Masc+Sg+Gen
+
+	
+
+šumì	UNKNOWN
+
+DAM.QAR-{ri-im}-ma	UNKNOWN
+
+	
+
+wa-di	UNKNOWN
+
+a-hi	ah+N+Masc+Sg+Construct+1csPoss
+a-hi	ah+N+Masc+Sg+Gen
+a-hi	ah+N+Masc+Pl+Obl
+a-hi	ah+N+Masc+Pl+Obl+1csPoss
+a-hi	ah+N+Masc+Pl+Construct
+a-hi	ah+N+Masc+Pl+Construct+1csPoss
+
+a-ta	am+N+Fem+Sg+Construct+TA
+a-ta	am+N+Fem+Sg+Acc
+a-ta	am+N+Fem+Sg+Construct+TA
+a-ta	atta+Pron+2p+Masc+Sg+Nom
+a-ta	atta+Pron+2p+Masc+Sg+Acc
+a-ta	atta+Pron+2p+Masc+Sg+Nom
+a-ta	atta+Pron+2p+Masc+Sg+Acc
+a-ta	Atāya+Name
+
+	
+
+ší-ma-am	šīm+N+Masc+Sg+Acc
+
+ki-ma	kīma+Prep
+
+	
+
+ša	šeˀāˀum+GStem+Imp+2CP
+
+a-ra-ma-<na>-tí-kà	UNKNOWN
+
+20	UNKNOWN
+
+ta-ša-ú-mu	UNKNOWN
+
+a-na	ana+Prep
+
+u.e.	UNKNOWN
+
+DAM.QAR	tamkār+Name+Masc+Sg+Construct
+DAM.QAR	tamkār+N+Masc+Sg+Construct
+DAM.QAR	makārum+GStem+Pret+2MS
+
+ša-a-am	UNKNOWN_NOUN_ADJ
+
+	
+
+DAM.QAR	tamkār+Name+Masc+Sg+Construct
+DAM.QAR	tamkār+N+Masc+Sg+Construct
+DAM.QAR	makārum+GStem+Pret+2MS
+
+a-wi-il5	awīl+N+Masc+Sg+Construct
+
+le.e.	UNKNOWN
+
+gi5-mì-lim	gimill+N+Masc+Sg+Gen
+
+	
+
