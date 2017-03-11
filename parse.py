@@ -8,6 +8,8 @@ name=""
 def main(parseFile, filename):
 
     # read morphological analyses
+    print(parseFile)
+    print(filename)
     parses={}
     file=open(parseFile)
     for line in file:        
